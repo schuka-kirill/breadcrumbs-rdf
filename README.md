@@ -1,3 +1,3 @@
-RDF Bareadcrumbs Template
+RDF Breadcrumbs Template
 ====================
 bitrix:breadcrumbs
